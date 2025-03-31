@@ -7,11 +7,11 @@ its not based on something its not forked all written on my own!
 
 # Install
 
-** dependencis **
+**dependencis**
 qt5-tools qt5-quickcontrols2 qt5-quickcontrols qt5-svg
 >the dependencis are for void linux!
 
-** copy configs **
+**copy configs**
 
 ```
 git clone https://github.com/binarylinuxx/pixeldm
